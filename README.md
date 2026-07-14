@@ -37,6 +37,15 @@
 
 ロゴは変形、切り抜き、文字変更をせず、そのままの縦横比で使ってください。写真はWebPまたはAVIFに変換すると軽くできます。元画像を保管したうえで、画像変換サービス等で同じ縦横比のWebP/AVIFを作り、HTMLのファイル名を差し替えてください。代表者写真は掲載しない方針です。施工写真に架空の画像を使わないでください。
 
+### 現在のイメージ写真
+
+以下は施工事例ではなく、サイトの雰囲気を伝えるイメージ写真です。いずれもUnsplash Licenseで公開されている写真を使用しています。
+
+- `house-atmosphere.jpg`：[Sense Atelier（Unsplash）](https://unsplash.com/photos/brown-wooden-house-during-daytime-X3tOKWTQ6ew)
+- `planning-atmosphere.jpg`：[Pedro Miranda（Unsplash）](https://unsplash.com/photos/people-reviewing-architectural-blueprints-on-desk-3QzMBrvCeyQ)
+
+実際の建物調査や相談風景の写真が用意できたら、同じファイル名で差し替えるか、`index.html` の画像パスを変更してください。
+
 ## 問い合わせフォーム
 
 現在は画面、入力チェック、確認画面まで実装済みです。フォームからの外部送信は行いません。公開メールアドレスと電話番号への直接連絡を表示しています。送信機能を追加するときは、`assets/js/main.js` の `TODO` 部分を、採用するフォームサービスの正式な手順に従って変更してください。
