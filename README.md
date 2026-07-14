@@ -75,6 +75,7 @@
 ## ファイル一覧
 
 - `index.html`：トップページ
+- `home-inspection.html`：ホームインスペクション・建物調査の詳細、料金、依頼の流れ
 - `privacy.html`：個人情報保護方針
 - `404.html`：ページが見つからない場合
 - `assets/css/style.css`：デザイン
