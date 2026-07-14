@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-# TODO: 公開前に正式URLを記入
-# Sitemap: https://正式なドメイン/sitemap.xml
-
+Sitemap: https://infosumikamirai-bot.github.io/co.jp/sitemap.xml
