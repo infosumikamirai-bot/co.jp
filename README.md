@@ -44,6 +44,9 @@
 - `house-atmosphere.jpg`：[Sense Atelier（Unsplash）](https://unsplash.com/photos/brown-wooden-house-during-daytime-X3tOKWTQ6ew)
 - `planning-atmosphere.jpg`：[Pedro Miranda（Unsplash）](https://unsplash.com/photos/people-reviewing-architectural-blueprints-on-desk-3QzMBrvCeyQ)
 - `future-home-concept.png`：画像生成による、明るい住まいの将来像を表すイメージ（施工事例ではありません）
+- `future-home-sunset.png`：画像生成による、夕暮れの住まいの将来像を表すイメージ（施工事例ではありません）
+- `planning-review-concept.png`：画像生成による、長袖の担当者が図面を確認するイメージ（実際の相談風景ではありません）
+- `inspection-report-concept.png`：画像生成による、住宅調査報告書のイメージ（実物の報告書ではありません）
 
 実際の建物調査や相談風景の写真が用意できたら、同じファイル名で差し替えるか、`index.html` の画像パスを変更してください。
 
